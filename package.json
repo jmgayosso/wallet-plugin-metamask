@@ -1,7 +1,7 @@
 {
     "name": "@jmgayosso/wallet-plugin-metamask",
     "description": "A MetaMask plugin for use with @jmgayosso/session.",
-    "version": "1.1.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/jmgayosso/wallet-plugin-metamask",
     "license": "BSD-3-Clause",
     "main": "lib/wallet-plugin-metamask.js",
